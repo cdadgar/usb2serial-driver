@@ -32,3 +32,7 @@ flash size 4MB (FS:1MB) (for a esp12e)
 
 
 note: to upload spiffs, arduino serial console must be closed
+
+
+
+2/22/23:  use this for the usb driver: https://help.mictrack.com/articles/how-to-fix-pl2303hxa-phased-out-issue/
