@@ -38,10 +38,11 @@ note: to upload spiffs, arduino serial console must be closed
 2/22/23:  use this for the usb driver: https://help.mictrack.com/articles/how-to-fix-pl2303hxa-phased-out-issue/
 
 Upgrade PL2303 Driver
-Right-click the “Windows Start” and select the“Device Manager”:
-Click “Port (COM & LPT)”, right-click “PL2303HXA PHASED OUT…” ;
-Select “Update driver”;
-Click “Browse my computer for drivers“,
-Click “Let me pick from a list of available drivers on my computer”
-Click “10/27/2008” then click next;
-Back to the “Port (COM & LPT)” and then it shows the COM Port
+
+1. Right-click the “Windows Start” and select the“Device Manager”:
+2. Click “Port (COM & LPT)”, right-click “PL2303HXA PHASED OUT…” ;
+3. Select “Update driver”;
+4. Click “Browse my computer for drivers“,
+5. Click “Let me pick from a list of available drivers on my computer”
+6. Click “10/27/2008” then click next;
+7. Back to the “Port (COM & LPT)” and then it shows the COM Port
